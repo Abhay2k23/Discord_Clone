@@ -1,0 +1,27 @@
+#node_modules# Node.js
+node_modules/
+
+# Vite
+/dist/
+/.cache/
+.yarn/
+
+# Build files
+.build/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+yarn-error.log
+npm-debug.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+.DS_Store
